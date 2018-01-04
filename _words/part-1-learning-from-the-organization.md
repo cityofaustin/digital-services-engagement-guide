@@ -57,13 +57,13 @@ Gaining access into the organization. It’s more than just physically being all
 
 Project planning happens in a series of conversations with people in very different roles:
 
-  - [Early project champion](#)
+  - [Early project champion](#general-considerations)
 
-  - [Decision-maker](#)
+  - [Decision-maker](#decision-makers)
 
-  - [Manager](#)
+  - [Manager](#manager)
 
-  - [City staff as potential team members](#)
+  - [City staff as potential team members](#city-staff-as-potential-team-members)
 
 Below we’ve laid out the various elements, and some general considerations for each, for any conversation you have. Sample scripts are provided where we have found more detail to be useful. Use the general considerations when talking to early project champions, the city staff who have worked to initiate this project in their organization. Additional guidance specific to the other roles follow.
 
@@ -118,7 +118,7 @@ Below we’ve laid out the various elements, and some general considerations for
 
 #### Decision makers:
 
-After meeting with the project’s early champion, meet with the head honcho who has final approval on the project. Your conversation with them includes all the elements and guidance laid out in our [general considerations](#), plus:
+After meeting with the project’s early champion, meet with the head honcho who has final approval on the project. Your conversation with them includes all the elements and guidance laid out in our [general considerations](#general-considerations), plus:
 
 * INTRODUCTIONS
   * PROJECT - Starting at this level, it is very useful to think of gaining access as being welcomed into someone’s home, and we’ve found it to be a very helpful analogy to use in conversation with those you engage. There are a series of people, each with their own "front door", and you need permission to enter each door in order to truly gain access in the spirit we’re referring to here. With each door you are allowed through, you are building buy-in and support, as well as demonstrating your desire that staff welcome rather than simply tolerate your engagement efforts. When talking about the project, ask for their permission to enter.
@@ -127,7 +127,7 @@ After meeting with the project’s early champion, meet with the head honcho who
 
 #### Manager:
 
-After meeting with the project’s decision maker, you’ll need to meet with the manager over the staff directly involved in [the process in scope]. Hold off on planning the research phase of your project with them until you get a sense of the [organization’s "flavor,"](#) where you’ll be in a better position to offer process options that are more tailored to their workplace. Your conversation with them includes all the elements and guidance laid out in our [general considerations](#), plus:
+After meeting with the project’s decision maker, you’ll need to meet with the manager over the staff directly involved in [the process in scope]. Hold off on planning the research phase of your project with them until you get a sense of the [organization’s "flavor,"](#the-organizations-flavor) where you’ll be in a better position to offer process options that are more tailored to their workplace. Your conversation with them includes all the elements and guidance laid out in our [general considerations](#general-considerations), plus:
 
 * INTRODUCTIONS
   * PROJECT - When talking about the project, ask for their permission to enter.
@@ -136,7 +136,7 @@ After meeting with the project’s decision maker, you’ll need to meet with th
 
 #### City staff as potential team members:
 
-When partnering with a city department or working group to improve services, your project team may include some city staff members. After meeting with their manager, you’ll want to meet with any identified potential team members. Your conversation with them includes all the elements and guidance laid out in our [general considerations](#), plus:
+When partnering with a city department or working group to improve services, your project team may include some city staff members. After meeting with their manager, you’ll want to meet with any identified potential team members. Your conversation with them includes all the elements and guidance laid out in our [general considerations](#general-considerations), plus:
 
 * INTRODUCTIONS
   * STAFF - Learn their subject matter expertise and how they became connected to the project.
@@ -159,13 +159,13 @@ When partnering with a city department or working group to improve services, you
 
 ### Announcing the project
 
-After conducting the [project planning conversations](#), you are ready to announce the project. Several things to consider are:
+After conducting the [project planning conversations](#emphasizing-project-planning-conversations), you are ready to announce the project. Several things to consider are:
 
-[Official hello!](#)
+[Official hello!](#official-hello)
 
-[Organizational tour](#)
+[Organizational tour](#organizational-tour)
 
-[Snowball sampling](#)
+[Snowball sampling](#snowball-sampling)
 
 #### Official hello!
 
@@ -181,7 +181,7 @@ Snowball sampling is a great way to make connections among staff because you’r
 
 ### Emphasizing introduction conversations
 
-You’ve conducted [project planning conversations](#) and then [announced the project](#); you’re now ready to conduct what we call introduction conversations. While project planning conversations are meant to get the project off the ground, introduction conversations are all about meeting and learning about the staff who are directly involved in [the process in scope]. Your conversations with staff include all the elements and guidance laid out in our [general considerations](#), plus:
+You’ve conducted [project planning conversations](#emphasizing-project-planning-conversations) and then [announced the project](#announcing-the-project); you’re now ready to conduct what we call introduction conversations. While project planning conversations are meant to get the project off the ground, introduction conversations are all about meeting and learning about the staff who are directly involved in [the process in scope]. Your conversations with staff include all the elements and guidance laid out in our [general considerations](#general-considerations), plus:
 
 * INTRODUCTION
     * PROJECT -  When talking about the project, ask for their permission to enter.
@@ -190,11 +190,11 @@ You’ve conducted [project planning conversations](#) and then [announced the p
 
 ## The Organization’s "flavor"
 
-You’ve [gotten to know staff](#) across the organization. Now you need learn more about how they work together. The department or working group you’re partnering with is part of a larger city system. Sure, they’re aligned with other city groups in their overall mission. But each group is unique in the larger system and wants to be recognized for the special way they help the city run smoothly. Here we describe several things to think about when trying to get to know an organization’s flavor:
+You’ve [gotten to know staff](#getting-to-know-you) across the organization. Now you need learn more about how they work together. The department or working group you’re partnering with is part of a larger city system. Sure, they’re aligned with other city groups in their overall mission. But each group is unique in the larger system and wants to be recognized for the special way they help the city run smoothly. Here we describe several things to think about when trying to get to know an organization’s flavor:
 
-[What do staff think others in the system need to know about them?](#)
+[What do staff think others in the system need to know about them?](#what-do-staff-think-others-in-the-system-need-to-know-about-them)
 
-[How are things done around here?](#)
+[How are things done around here?](#how-are-things-done-around-there)
 
 ### What do staff think others in the system need to know about them?
 
@@ -222,13 +222,13 @@ Ask them their experiences in the office with the following, so you can learn of
 
 ## Learning their current reality
 
-Once you’ve [gotten to know staff ](#)across the organization, and learned [what makes them unique](#), only then are you ready to start the formal research phase of your project. This is your opportunity to learn their reality working in [the process in scope]. You and your team will be:
+Once you’ve [gotten to know staff ](#getting-to-know-you)across the organization, and learned [what makes them unique](#the-organizations-flavor), only then are you ready to start the formal research phase of your project. This is your opportunity to learn their reality working in [the process in scope]. You and your team will be:
 
-[Planning the research](#)
+[Planning the research](#planning-the-research)
 
-[Giving staff a heads up](#)
+[Giving staff a heads up](#giving-staff-a-heads-up)
 
-[Conducting research](#)
+[Conducting research](#conducting-research)
 
 ### Planning the research
 
