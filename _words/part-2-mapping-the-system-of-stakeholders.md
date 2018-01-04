@@ -5,7 +5,7 @@ position: 5
 
 In Part 1, we covered a number of topics regarding the department or working group you’re project is directly partnering with to improve a city service. As we’ve already noted, that organization does not exist as an island, but rather is incredibly interwoven and interdependent within a larger system of city groups.  Meaningful engagement, and truly your project’s success, means expanding your view beyond your partner to all key players involved. Why? Because success means thinking long-term: what will you innovate through this project, and how will it impact the rest of the system? To create enduring transformation, you need the buy-in, support, and collaboration of key staff across the system.
 
-You’ve conducted [project planning conversations](#emphasizing-project-planning-conversations) with project leadership, and [introduction conversations](#emphasizing-introduction-conversations) with staff in the partnering organization. Now, you’re ready to have system stakeholder conversations. You and your team will be:
+You’ve conducted [project planning conversations](/digital-services-engagement-guide/part-1-learning-from-the-organization#emphasizing-project-planning-conversations) with project leadership, and [introduction conversations](/digital-services-engagement-guide/part-1-learning-from-the-organization#emphasizing-introduction-conversations) with staff in the partnering organization. Now, you’re ready to have system stakeholder conversations. You and your team will be:
 
 [Identifying "tentacles"](#identifying-tentacles)
 
@@ -25,15 +25,15 @@ Those involved in the process are usually pretty easy to spot; they’re closely
 
 *Considerations:*
 
-* [Snowball sampling](#snowball-sampling) will come in handy here. That method not only helps you identify all obvious key players, it also leads you to groups and staff who are more hidden in the system.
+* [Snowball sampling](/digital-services-engagement-guide/part-1-learning-from-the-organization#snowball-sampling) will come in handy here. That method not only helps you identify all obvious key players, it also leads you to groups and staff who are more hidden in the system.
 
-* Look through your notes from [project planning](#emphasizing-project-planning-conversations) and [introduction conversations](#emphasizing-introduction-conversations). Staff likely identified key players in your conversations. Reach out and ask them for an introduction!
+* Look through your notes from [project planning](/digital-services-engagement-guide/part-1-learning-from-the-organization#emphasizing-project-planning-conversations) and [introduction conversations](/digital-services-engagement-guide/part-1-learning-from-the-organization#emphasizing-introduction-conversations). Staff likely identified key players in your conversations. Reach out and ask them for an introduction!
 
 * Reach out to your highly engaged, your "sneezers!" Ask them for their help reviewing your identified groups so far and suggest ones you’ve missed. In enlisting their help, you are engaging them as forces of good on the project and showing your respect for their expertise.
 
 ## Emphasizing stakeholder conversations
 
-Your conversations with system stakeholders include all the elements and guidance laid out in our [general considerations](#general-considerations), plus:
+Your conversations with system stakeholders include all the elements and guidance laid out in our [general considerations](/digital-services-engagement-guide/part-1-learning-from-the-organization#general-considerations), plus:
 
 * INTRODUCTIONS
   * YOU - Learn how they are connected to [the process in scope].
