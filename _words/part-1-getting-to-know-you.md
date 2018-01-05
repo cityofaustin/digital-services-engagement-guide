@@ -171,5 +171,5 @@ You’ve conducted project planning conversations and then announced the project
 
 * **Introductions**
   * **Project** -  When talking about the project, ask for their permission to enter.
-  		* *Sample script*
-      * "[Decision Maker] has given us permission to enter their home, [the Department]. [Manager] has given us permission to enter. But we’re only staying for this project if we have your permission to enter too. We could really use your feedback to refine this project so that its outcomes are useful to you. What resonates with you from what we’ve talked about today?"
+    * *Sample script*
+    * "[Decision Maker] has given us permission to enter their home, [the Department]. [Manager] has given us permission to enter. But we’re only staying for this project if we have your permission to enter too. We could really use your feedback to refine this project so that its outcomes are useful to you. What resonates with you from what we’ve talked about today?"
