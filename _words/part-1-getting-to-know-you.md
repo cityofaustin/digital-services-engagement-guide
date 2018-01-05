@@ -131,7 +131,7 @@ When partnering with a city department or working group to improve services, you
     * "We are city just like you. We want to make sure this project aligns with your work, your skills, and creates useful outcomes for you. What is your vision for the org? This project? Where do you see your skills connecting?"
 
 * **Expectations** - Talk strategies for identifying and challenging assumptions. Talk time and effort needed to serve as a project team member. Talk strategies for identifying and remedying an overloaded plate of work.
-* *Sample scripts*
+  * *Sample scripts*
   * "In many ways, we who are not involved in [the process in scope] have it easier than you in this project. Since everything is new to us, being in learning mode feels natural to us; you may find that your experience and expertise with the process can make it hard for you to notice when you’re making assumptions instead of staying curious and open. Challenging assumptions is something we all have to do, but we recognize that your task at that might be harder. We are here to help you if that happens! Let’s talk strategies for how we’ll help each other identify and challenge assumptions during the project. To get us started, here’s one we’ve found really helpful in the past..."
   * "We recognize that this project is not the only thing on your plate. We want to make sure you have the time and resources you need to be able to contribute meaningfully to the project. Given the scope of this project, we anticipate a weekly time commitment to be [x hours]. We give that as a maximum so staff have an assurance of a cap on their time spent on the project. In exchange, we do ask that time commitment to be protected. Does that align with your current availability? Will your supervisor agree to this time commitment?"
   * "We know that unexpected tasks will fall in our laps at some point in the project. Let’s talk strategies for how we’ll monitor and adjust workloads if needed. To get us started, here’s one we’ve found really helpful in the past…"
@@ -170,6 +170,6 @@ Snowball sampling is a great way to make connections among staff because you’r
 You’ve conducted project planning conversations and then announced the project; you’re now ready to conduct what we call introduction conversations. While project planning conversations are meant to get the project off the ground, introduction conversations are all about meeting and learning about the staff who are directly involved in [the process in scope]. Your conversations with staff include all the elements and guidance laid out in our general considerations, plus:
 
 * **Introductions**
-    * **Project** -  When talking about the project, ask for their permission to enter.
+  * **Project** -  When talking about the project, ask for their permission to enter.
   		* *Sample script*
       * "[Decision Maker] has given us permission to enter their home, [the Department]. [Manager] has given us permission to enter. But we’re only staying for this project if we have your permission to enter too. We could really use your feedback to refine this project so that its outcomes are useful to you. What resonates with you from what we’ve talked about today?"
