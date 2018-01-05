@@ -6,6 +6,7 @@ position: 8
 Once you’ve gotten to know staff across the organization, and learned what makes them unique, only then are you ready to start the formal research phase of your project. This is your opportunity to learn their reality working in [the process in scope]. You and your team will be:
 
 * **Planning the research**
+
 * **Giving staff a heads up**
 
 * **Conducting research**
@@ -28,11 +29,12 @@ If you document the approach you agree on with the manager and share it with the
 
 ## Giving staff a heads up
 
-* An email should be sent to staff, preferably by the manager, letting them know that the team will be conducting regular site visits and who will be emailing them from the team to request permission/schedule interviews/observations/etc. Encourage the manager to encourage  participation!
+An email should be sent to staff, preferably by the manager, letting them know that the team will be conducting regular site visits and who will be emailing them from the team to request permission/schedule interviews/observations/etc. Encourage the manager to encourage  participation!
 
-* You or your team member will email staff to schedule interviews/observations/etc in line with your research plan.
-  * *Sample script*
-   * "It was great meeting you at [provide context]. As a reminder, we are here to work with y’all on [project goal]. We’re hoping to learn what you do and how it helps you do your job well. I don’t know much about [process in scope] and I’d love to learn from your expertise."
+You or your team member will email staff to schedule interviews/observations/etc in line with your research plan.
+ * *Sample script*
+ * "It was great meeting you at [provide context]. As a reminder, we are here to work with y’all on [project goal]. We’re hoping to learn what you do and how it helps you do your job well. I don’t know much about [process in scope] and I’d love to learn from your expertise."
+
 
 ## Conducting research
 
