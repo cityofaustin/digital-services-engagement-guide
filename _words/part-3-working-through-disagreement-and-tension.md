@@ -15,7 +15,7 @@ Being able to successfully engage city staff comes down to building relationship
 
 * Don’t shy away from what makes you different than the people you are trying to engage.
 
-  *They are sharing their world with you. Share your world with them. Show and tell them the tools of your trade and the location of your work, especially if those are the very things that you think could alienate them.
+  * They are sharing their world with you. Share your world with them. Show and tell them the tools of your trade and the location of your work, especially if those are the very things that you think could alienate them.
 
 * Always be telling staff who you’ve engaged with previously and who you’re engaging with next.
 
