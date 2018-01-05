@@ -10,11 +10,11 @@ You’ve gotten to know staff across the organization. Now you need learn more a
 
 ## What do staff think others in the system need to know about them?
 
-* Learn who they think they are in the system of groups that make up the city.
+Learn who they think they are in the system of groups that make up the city.
 
-* Learn who they think they are in the system of groups impacting [the process in scope].
+Learn who they think they are in the system of groups impacting [the process in scope].
 
-* Learn what pain points or challenges they face as a group.
+Learn what pain points or challenges they face as a group.
 
 ## How are things done around there?
 
