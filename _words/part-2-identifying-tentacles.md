@@ -13,8 +13,8 @@ Those involved in the process are usually pretty easy to spot; they’re closely
 
 *Considerations:*
 
-* [Snowball sampling](/digital-services-engagement-guide/part-1-learning-from-the-organization#snowball-sampling) will come in handy here. That method not only helps you identify all obvious key players, it also leads you to groups and staff who are more hidden in the system.
+* Snowball sampling will come in handy here. That method not only helps you identify all obvious key players, it also leads you to groups and staff who are more hidden in the system.
 
-* Look through your notes from [project planning](/digital-services-engagement-guide/part-1-learning-from-the-organization#emphasizing-project-planning-conversations) and [introduction conversations](/digital-services-engagement-guide/part-1-learning-from-the-organization#emphasizing-introduction-conversations). Staff likely identified key players in your conversations. Reach out and ask them for an introduction!
+* Look through your notes from project planning and introduction conversations. Staff likely identified key players in your conversations. Reach out and ask them for an introduction!
 
 * Reach out to your highly engaged, your "sneezers!" Ask them for their help reviewing your identified groups so far and suggest ones you’ve missed. In enlisting their help, you are engaging them as forces of good on the project and showing your respect for their expertise.
