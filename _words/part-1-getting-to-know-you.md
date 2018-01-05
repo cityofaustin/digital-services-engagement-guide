@@ -78,7 +78,7 @@ Below we’ve laid out the various elements, and some general considerations for
 
 * COMMUNICATION PLAN - Co-create strategies for keeping in touch, and strategies for handling last minute needs during the project. It’s best to set up communication practices from the beginning so that when something urgent comes up or you need approval or feedback, the act of getting in touch with each other is already part of the routine.
   * *Sample Script*
-  * "“I’m hoping we can set up a plan for communicating during the project, so that when you need me you know the best way to reach me and vice versa. We can change this plan once we start the project and have a better idea of how frequently we need to be in touch. For now, one idea I had was [ex: a standing 15 minute phone call each week]. Or, what would work better? “
+  * "I’m hoping we can set up a plan for communicating during the project, so that when you need me you know the best way to reach me and vice versa. We can change this plan once we start the project and have a better idea of how frequently we need to be in touch. For now, one idea I had was [ex: a standing 15 minute phone call each week]. Or, what would work better?"
 
 * BOOKEND - End with who you’ll speak to next. You are signaling that this project will bring all key players at the table.
 
