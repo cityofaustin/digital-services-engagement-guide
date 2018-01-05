@@ -5,15 +5,17 @@ position: 16
 
 Being able to successfully engage city staff comes down to building relationships that can support tough conversations on complex issues. You’ve engaged the partnering organization in meaningful conversations that span from leadership to the frontlines. But you didn’t stop there, because you know the project team seeks whole-system transformation. So you’ve gone a step further to identify and engage key players across the system in meaningful conversations. With all your efforts spent building and maintaining connections across a diverse array of staff, you’ve developed the kinds of relationships that can weather the disagreement and tension that is 100% guaranteed whenever people with diverse perspectives tackle complex challenges. On top of that, you may find that you’re entering into organizations that have internal conflict completely unrelated to your project. It can be tough to know how to handle either type of situation. Below we’ve offered some practical tips for:
 
-[Navigating organizational conflict](#navigating-organizational-conflict)
+* **Navigating organizational conflict**
 
-[Navigating difficult conversations](#navigating-difficult-conversations)
+* **Navigating difficult conversations**
 
 ## Navigating organizational conflict
 
 *Strategies:*
 
-* Don’t shy away from what makes you different than the people you are trying to engage. They are sharing their world with you. Share your world with them. Show and tell them the tools of your trade and the location of your work, especially if those are the very things that you think could alienate them.
+* Don’t shy away from what makes you different than the people you are trying to engage.
+  
+  *They are sharing their world with you. Share your world with them. Show and tell them the tools of your trade and the location of your work, especially if those are the very things that you think could alienate them.
 
 * Always be telling staff who you’ve engaged with previously and who you’re engaging with next.
 
@@ -23,7 +25,9 @@ Being able to successfully engage city staff comes down to building relationship
 
   * You’ll likely notice that people in the organization describe their collaborative challenges in terms of win-lose. You acknowledge it when you hold back information on who you’ve talked to for fear of angering one group against another or losing trust from one if they find out you’re also talking to someone they’re in conflict with. You’ll inadvertently appear to be taking some sort of side even if staff can’t figure out which. What’s really interesting is taking sides won’t even help you build trust with the side you’ve taken! By siding with them, you’ll be seen as one-sided and therefore there’s potential that in the future you might be on the other side. When you show you’re neutral, you build trust and you are showing that this project can provide wins across conflicting perspectives.
 
-* Don’t inherit relationships. Build your own. PERIOD!
+* Don’t inherit relationships. Build your own.
+
+  * PERIOD!
 
 * Pay attention to language
 
@@ -53,7 +57,7 @@ Being able to successfully engage city staff comes down to building relationship
 
   * Sometimes, an opportunity to talk through a concern (a genuine frank conversation about constraints and realities) is remedy enough even if what’s causing the concern can’t be changed.
 
-  * *Sample script*
+    * *Sample script*
 
     * "Here’s what I got from that, can I check with you to make sure I understood you right?"
 
