@@ -35,6 +35,7 @@ You or your team member will email staff to schedule interviews/observations/etc
  * *Sample script*
  * "It was great meeting you at [provide context]. As a reminder, we are here to work with y’all on [project goal]. We’re hoping to learn what you do and how it helps you do your job well. I don’t know much about [process in scope] and I’d love to learn from your expertise."
 
+
 ## Conducting research
 
 As you carry out the research plan your team has developed, give deliberate attention to the way you engage with staff. Engagement isn’t just a means to collecting data that will help you with your project. It’s equally important to devote attention to cultivating personalized relationships with staff.
