@@ -1,6 +1,6 @@
 ---
 title: "Part 3: Building and maintaining connections"
-position: 10
+position: 13
 ---
 
 Meaningful engagement means building and maintaining connections with all key players in the system. You and your team will be:
