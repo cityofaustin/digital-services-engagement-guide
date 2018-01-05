@@ -80,19 +80,19 @@ Below we’ve laid out the various elements, and some general considerations for
 
     * PROJECT -  Ask about their current understanding of the project. Share your team’s starting point.
 
-    * *Sample script*
-
+      * *Sample script*
+    
       * "[Early project champion] came to us with an idea. We think we can help with that idea with [your team’s approach]. This is just an initial idea. What we do is apply our [expertise] to help our city partners improve their services for both staff and residents. But we aren’t experts in [the process in scope]. Staff in [department or working group] are. So we are here to learn from you, the experts and work with you to improve that process. We want to make sure this project aligns with your vision and creates useful outcomes for you. What is your vision for your organization? This project?...Here is what we have in mind initially."
 
 * ACKNOWLEDGE - What are their "Taj Mahal" things- their primary goals or needs?  Repeat what they told you to confirm that you heard correctly and that you’ll be keeping these things in mind during the project.
 
 * EXPECTATIONS - Share the philosophy or attitude underlying your team’s work: the look and feel of the process, the spirit of your approach.
   * *Sample script*
-    * "We are here to learn realities. Realities offer opportunities, and we are going to ensure this is a safe space to learn and act on realities. The only way to make things better is to learn from everyone’s realities. So we’ll be engaging everyone that impacts [the process in scope]."
+  * "We are here to learn realities. Realities offer opportunities, and we are going to ensure this is a safe space to learn and act on realities. The only way to make things better is to learn from everyone’s realities. So we’ll be engaging everyone that impacts [the process in scope]."
 
 * COMMUNICATION PLAN - Co-create strategies for keeping in touch, and strategies for handling last minute needs during the project. It’s best to set up communication practices from the beginning so that when something urgent comes up or you need approval or feedback, the act of getting in touch with each other is already part of the routine.
   * *Sample Script*
-    * "“I’m hoping we can set up a plan for communicating during the project, so that when you need me you know the best way to reach me and vice versa. We can change this plan once we start the project and have a better idea of how frequently we need to be in touch. For now, one idea I had was [ex: a standing 15 minute phone call each week]. Or, what would work better? “
+  * "“I’m hoping we can set up a plan for communicating during the project, so that when you need me you know the best way to reach me and vice versa. We can change this plan once we start the project and have a better idea of how frequently we need to be in touch. For now, one idea I had was [ex: a standing 15 minute phone call each week]. Or, what would work better? “
 
 * BOOKEND - End with who you’ll speak to next. You are signaling that this project will bring all key players at the table.
 
@@ -123,7 +123,7 @@ After meeting with the project’s early champion, meet with the head honcho who
 * INTRODUCTIONS
   * PROJECT - Starting at this level, it is very useful to think of gaining access as being welcomed into someone’s home, and we’ve found it to be a very helpful analogy to use in conversation with those you engage. There are a series of people, each with their own "front door", and you need permission to enter each door in order to truly gain access in the spirit we’re referring to here. With each door you are allowed through, you are building buy-in and support, as well as demonstrating your desire that staff welcome rather than simply tolerate your engagement efforts. When talking about the project, ask for their permission to enter.
     * *Sample script*
-      * "We’re only here to stay for this project if we have your permission to enter “this house," [the Department]. We want to make sure this project aligns with your vision for the Department and creates useful outcomes for you. What is your vision?...Here is what we had in mind.”
+    * "We’re only here to stay for this project if we have your permission to enter “this house," [the Department]. We want to make sure this project aligns with your vision for the Department and creates useful outcomes for you. What is your vision?...Here is what we had in mind.”
 
 #### Manager:
 
