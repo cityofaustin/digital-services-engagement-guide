@@ -1,5 +1,5 @@
-title: Digital Services Style Guide
-description: The Digital Services Style Guide is a resource for writing better copy for City of Austin websites.
+title: Digital Services Engagement Guide
+description: The Digital Services Engagement Guide is a resource for bringing together city staff to tackle large-scale innovation.
 email: innovationfellows@austintexas.gov
 timezone: UTC
 collections:
@@ -24,7 +24,7 @@ defaults:
     layout: sidebar-page
 
 baseurl:
-url: https://cityofaustin.github.io/digital-services-style-guide
+url: https://cityofaustin.github.io/digital-services-engagement-guide/
 twitter:
   username: civiqueso
 zilker_theme: dark
