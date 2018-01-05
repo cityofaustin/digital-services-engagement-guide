@@ -2,3 +2,9 @@
 ---
 
 @import "zilker/all";
+
+
+// no bullets plz
+li {
+  list-style: none;
+}
