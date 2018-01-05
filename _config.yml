@@ -23,7 +23,7 @@ defaults:
   values:
     layout: sidebar-page
 
-baseurl:
+baseurl: https://cityofaustin.github.io/digital-services-engagement-guide
 url: https://cityofaustin.github.io/digital-services-engagement-guide/
 twitter:
   username: civiqueso

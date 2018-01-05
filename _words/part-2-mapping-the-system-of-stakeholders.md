@@ -7,8 +7,8 @@ In Part 1, we covered a number of topics regarding the department or working gro
 
 You’ve conducted project planning conversations with project leadership, and introduction conversations with staff in the partnering organization. Now, you’re ready to have system stakeholder conversations. You and your team will be:
 
-[Identifying "tentacles"](/part-2-identifying-tentacles)
+[Identifying "tentacles"]({{ site.baseurl }}/part-2-identifying-tentacles)
 
-[Emphasizing stakeholder conversations](/part-2-emphasizing-stakeholder-conversations)
+[Emphasizing stakeholder conversations]({{ site.baseurl }}/part-2-emphasizing-stakeholder-conversations)
 
-[Mapping the system](/part-2-mapping-the-system)
+[Mapping the system]({{ site.baseurl }}/part-2-mapping-the-system)

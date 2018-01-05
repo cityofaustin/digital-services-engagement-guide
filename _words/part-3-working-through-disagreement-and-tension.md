@@ -14,7 +14,7 @@ Being able to successfully engage city staff comes down to building relationship
 *Strategies:*
 
 * Don’t shy away from what makes you different than the people you are trying to engage.
-  
+
   *They are sharing their world with you. Share your world with them. Show and tell them the tools of your trade and the location of your work, especially if those are the very things that you think could alienate them.
 
 * Always be telling staff who you’ve engaged with previously and who you’re engaging with next.
@@ -64,9 +64,3 @@ Being able to successfully engage city staff comes down to building relationship
     * "I’d like to dig a little deeper so I can gain an appreciation for what this means to you. You say you’re concerned with [problem], what issue is that causing you or what do you think would happen if we continued with that?"
 
     * "I’m hearing you say that you’re interested in [their goal]. And what I’m trying to accomplish is [project goal]. Let’s see if there’s another way for us to work that won’t affect your work."
-
-## Summary
-
-You are well on your way to creating enduring transformation, in collaboration with a diverse array of key players by your side. Our goal with this guide is to share the strategies and approach that have worked for us at the Austin Design, Technology, and Innovation Fellowship. And we hope, spark additional conversations on how to further refine and develop this approach to meet the ever-evolving needs of whole-system transformation. Innovating products and services is a tall order, and we believe that focusing on the people who make that innovation happen is the key to success.
-
-Questions, comments, feedback? Let’s have a conversation. Email us at [innovation@austintexas.gov](mailto:innovation@austintexas.gov).
