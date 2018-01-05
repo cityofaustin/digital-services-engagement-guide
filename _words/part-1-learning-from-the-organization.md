@@ -3,7 +3,7 @@ title: "Part 1: Learning from the organization"
 position: 4
 ---
 
-The client organization is the city department or working group you’ll be directly partnering with with to improve a process. There are several steps to learning their reality:
+The client organization is the city department or working group you’ll be directly partnering with to improve a process. There are several steps to learning their reality:
 
 [Getting to know you](#getting-to-know-you)
 
