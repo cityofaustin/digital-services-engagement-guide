@@ -3,7 +3,7 @@ title: The logic in our approach
 position: 2
 ---
 
-This guide outlines strategies for navigating the complex human dimension of large-scale innovation. These strategies are all built on a certain logic about what engagement in organizational settings is really all about. Let’s clarify what we mean by engagement first. We think understanding the underlying logic is key to being able to effectively leverage and tailor these strategies for a particular situation.
+This guide outlines strategies for navigating the complex human dimension of large-scale innovation. These strategies are built on a certain logic about what engagement in organizational settings is really all about. Let’s clarify what we mean by engagement first. We think understanding the underlying logic is key to being able to effectively leverage and tailor these strategies for a particular situation.
 
 When you’re trying to get to know staff, it’s all about conversations. Why? Consider that organizations are really a group of people coming together and orienting around some common purpose. That means that to understand organizations, we want to consider more about what is happening when they organize (a process) than trying to study the organization (a thing). All that organizing? It happens in conversations of all kinds. Sure, you need the tangible and intangible resources and processes that aid in getting the work done, but they don’t mean much apart from the interaction that’s happening in conversation.
 
