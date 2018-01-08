@@ -23,19 +23,19 @@ Being able to successfully engage city staff comes down to building relationship
 
 * Long-standing conflict is often perpetuated by a zero-sum mentality. Resist acknowledging this mentality.
 
-  * You’ll likely notice that people in the organization describe their collaborative challenges in terms of win-lose. You acknowledge it when you hold back information on who you’ve talked to for fear of angering one group against another or losing trust from one if they find out you’re also talking to someone they’re in conflict with. You’ll inadvertently appear to be taking some sort of side even if staff can’t figure out which. What’s really interesting is taking sides won’t even help you build trust with the side you’ve taken! By siding with them, you’ll be seen as one-sided and therefore there’s potential that in the future you might be on the other side. When you show you’re neutral, you build trust and you are showing that this project can provide wins across conflicting perspectives.
+  * You’ll likely notice that people in the organization describe their collaborative challenges in terms of win-lose. You acknowledge that mentality when you hold back information on who you’ve talked to for fear of angering one group against another or losing trust from one if they find out you’re also talking to someone they’re in conflict with. You’ll inadvertently appear to be taking some sort of side even if staff can’t figure out which. What’s really interesting is taking sides won’t even help you build trust with the side you’ve taken! By siding with them, you’ll be seen as one-sided and therefore there’s potential that in the future you might be on the other side. When you show you’re neutral, you build trust and you are showing that this project can provide wins across conflicting perspectives.
 
 * Don’t inherit relationships. Build your own.
 
   * PERIOD!
 
-* Pay attention to language
+* Pay attention to language.
 
-  * When people correct your use of a word, acknowledge it and ask them why. Make note of this intel; you can take it back to the team and consider how to respond.
+  * When people correct your use of a word, acknowledge it and ask them why. Make note of this intel; you can take it back to the team and consider how to adapt.
 
 * Affirm shared insights with "Ok", not “right”.
 
-  * When talking to staff who refer to other staff, acknowledge their perspective with "ok", “I see,” “got it,” “understood.” Steer clear of saying “right.” Though seemingly trivial, you don’t want to indicate agreement and threaten your neutrality, indicate empathy instead and you’ll still build rapport while staying neutral.
+  * When staff talk to you about other staff, especially in a negative or critical way, acknowledge their perspective with "ok", “I see,” “got it,” “understood.” Steer clear of saying “right.” Though seemingly trivial, you don’t want to indicate agreement and threaten your neutrality. Show empathy instead by affirming what you hear and you’ll build rapport while staying neutral.
 
 ## Navigating difficult conversations
 
@@ -47,7 +47,7 @@ Being able to successfully engage city staff comes down to building relationship
 
 * There’s tension in the air. Stop and ask yourself and your team why.
 
-  * Is this an organizational readiness issue or an issue of the organization not understanding the approach of your work? Find the root of the tension before you try to address it. To find out, focus on clarifying the approach to the work and reaching agreement on that. Then reassess where everyone is at. If issues remain, then there’s reason to think tension exists because of the content of your work rather than its approach.
+  * Is this an organizational readiness issue or an issue of the organization not understanding the approach of your work? Find the root of the tension before you try to address it. To find out, focus on clarifying the approach to the work and reaching agreement on that. Then re-assess where everyone is at. If issues remain, then there’s reason to think tension exists because of the content of your work rather than its approach.
 
 * When staff become alarmed or fearful or critical, this is your signal that useful information is there for you to learn. Ask why.
 
@@ -55,7 +55,7 @@ Being able to successfully engage city staff comes down to building relationship
 
 * When staff share concerns with you, validate.
 
-  * Sometimes, an opportunity to talk through a concern (a genuine frank conversation about constraints and realities) is remedy enough even if what’s causing the concern can’t be changed.
+  * Sometimes, an opportunity to talk through a concern (an empathetic, frank conversation about constraints and realities) is remedy enough even if what’s causing the concern can’t be changed.
 
     * *Sample script*
 
