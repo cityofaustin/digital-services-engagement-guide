@@ -3,7 +3,7 @@ title: "Getting to know you"
 position: 6
 ---
 
-Gaining access into the organization. It’s more than just physically being allowed in their workplace, it means City staff welcoming you into, and sharing, their reality. For any of that to happen, a "getting to know you" phase happens first. Here we describe several things to think about when trying to get to know an organization’s staff:
+Gaining access into the organization. It’s more than just physically being allowed in their workplace, it means city staff welcoming you into, and sharing, their reality. For any of that to happen, a "getting to know you" phase happens first. Here we describe several things to think about when trying to get to know an organization’s staff:
 
 * **Learning the organizational chart**
 * **Designating a point of contact**
@@ -55,7 +55,7 @@ Below we’ve laid out the various elements, and some general considerations for
 
 ### General considerations:
 
-* **Bookend** - Begin every conversation with who you spoke with last, and end with who you’ll speak to next. You are signaling that this project will bring all key players at the table.
+* **Bookend** - Begin every conversation with who you spoke with last, and end with who you’ll speak to next. You are signaling that this project will bring all key players to the table.
 
 * **Introductions**
     * **Staff** - Learn their contribution to their organization
@@ -96,9 +96,9 @@ Below we’ve laid out the various elements, and some general considerations for
 
     * Learning more about innovative methods of problem solving
 
-    * If you can answer yes to any of these questions, and they would agree with you, you have an opportunity to help the person and thereby offer a meaningful engagement opportunity. If you cannot answer yes to any of these questions, then do not engage them further.
+    * If you can answer yes to any of these, and they would agree with you, you have an opportunity to help the person and thereby offer a meaningful engagement opportunity. If you cannot answer yes to any of these questions, then do not engage them further.
 
-    * Document the project’s benefits to them, and connect back to it when you engage them in the future.
+    * Document the project’s benefits to them, and connect back to them when you engage this person in the future.
 
   * *Level of engagement*: How excited or alarmed were they? How much did they lean in with encouragement or criticism or fear or doubt or gratitude? Whether positively or negatively, these are your highly engaged. Lean IN not AWAY from negatively engaged or "problem children." The highly engaged will talk about your project for you, they are what Seth Godin calls your “sneezers”. Their engagement is a gift. Accept the gift and engage them. Ask the highly engaged for their help spreading the word about the project.
 
